@@ -12,7 +12,7 @@
 <!-- Profile Views -->
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ruth-ikegah&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+  <img src="https://komarev.com/ghpvc/?username=Aaron-Nwokoro&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 <!-- Profile Views: END -->
@@ -28,12 +28,13 @@
 
 <ul>
   <li>✨ I’m Aaron Nwokoro </li>
-  
+  <!---
   <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.</a>
   
   <li>💬 I'm passionate about building sustainable tech communities, especially in the Open-Source space.</li>
   
   <li>🎉🌱 Fun Fact : I love contributing to open source project, and i'm also a  <a href="https://stars.github.com/profiles/ruth-ikegah/">Github star</li>
+-->
 </ul>
 
 <!-- About me section: END -->
@@ -56,19 +57,20 @@
 ## :fire: Github Stats
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruth-ikegah&show_icons=true&locale=en&theme=tokyonight" alt="Ruth-ikegah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aaron-Nwokoro&show_icons=true&locale=en&theme=tokyonight" alt="Ruth-ikegah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruth-ikegah&&theme=tokyonight" alt="Ruth-ikegah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron-Nwokoro&&theme=tokyonight" alt="Ruth-ikegah" /></p>
 
 
 <!-- Github Stats: END -->
 
-/*
+<!---
 **You can check out my blog here**
 - [My blog](https://cakebaby.dev/)
 
+-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ruth-ikegah&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+  <img src="https://komarev.com/ghpvc/?username=Aaron-Nwokoro&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-*/
+
