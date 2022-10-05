@@ -9,20 +9,20 @@
 <!-- Animation Typing: END -->
 
 
-<!-- Profile Views -->
+<!-- Profile Views
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Maxiron&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-<!-- Profile Views: END -->
+Profile Views: END -->
 
 
 
-<!--Image Gif-->
+<!--Image Gif
 <img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="290px" align="right" />
 
-<!-- About me section -->
+About me section -->
 
 <h2>⚡️ About Me</h2>
 
