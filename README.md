@@ -12,7 +12,7 @@
 <!-- Profile Views -->
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Aaron-Nwokoro&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+  <img src="https://komarev.com/ghpvc/?username=Maxiron&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 <!-- Profile Views: END -->
@@ -57,9 +57,9 @@
 ## :fire: Github Stats
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aaron-Nwokoro&show_icons=true&locale=en&theme=tokyonight" alt="Ruth-ikegah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Maxiron&show_icons=true&locale=en&theme=tokyonight" alt="Ruth-ikegah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron-Nwokoro&&theme=tokyonight" alt="Ruth-ikegah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maxiron&&theme=tokyonight" alt="Ruth-ikegah" /></p>
 
 
 <!-- Github Stats: END -->
