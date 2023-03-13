@@ -74,7 +74,5 @@ About me section -->
 </p>
 
 <br>
-<br> 
-<br> 
 
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxiron&layout=compact" alt="Maxiron" /></p>
