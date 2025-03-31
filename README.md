@@ -1,76 +1,40 @@
-<h2 align="center">Hello there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+# Hi there, I'm Aaron Nwokoro 👋
 
-<!-- Animation Typing -->
+I'm a passionate ans experienced backend developer with a drive for building creative and impactful solutions. Welcome to my GitHub profile!
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Aaron+Nwokoro.;I'm+a+Backend+Developer,+Software+Engineer;"></a>
-</p>
+## About Me
 
-<!-- Animation Typing: END -->
+- 🔭 I’m currently working on exciting projects in the realms of software development and open-source.
+- 🌱 I’m continually learning new technologies and exploring innovative solutions.
+- 👯 I’m looking to collaborate on projects that push boundaries and foster growth.
+- 💬 Ask me about anything related to [Python, Java, Django, FastAPI, Springboot].
+- 📫 How to reach me: [aaronnwokoro@gmail.com](mailto:aaronnwokoro@gmail.com) *[Linkedin](https://www.linkedin.com/in/aaron-nwokoro)*
 
+## Skills & Technologies
 
-<!-- Profile Views
+- **Languages:** Python, Java.
+- **Frameworks & Tools:** Django, FastAPI, Springboot, Node.js, Docker, Git, etc.
+- **Interests:** Backend, Systems, DevOps, Cloud computing, etc.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Maxiron&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+## Projects
 
-Profile Views: END -->
+Here are some highlights of my work:
+- [**Project One**](https://github.com/Maxiron/library-api): A brief description of what this project does.
+- [**Project Two**](https://github.com/Maxiron/Backend): A short summary of its features and technologies used.
 
+## GitHub Stats
 
+![Maxiron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxiron&show_icons=true)
 
-<!--Image Gif
-<img  src="https://user-images.githubusercontent.com/105108549/190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed.gif" height="290px" align="right" />
+<!-- Optional: Add more cards or sections, like top languages, visitor badges, etc. -->
 
-About me section -->
+## Let's Connect
 
-<h2>⚡️ About Me</h2>
+I'm always excited to connect with fellow developers, open-source enthusiasts, or anyone with a cool project idea!  
+- **Email:** [aaronnwokoro@gmail.com](mailto:aaronnwokoro@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/aaron-nwokoro)  
+- **Twitter:** [@0xAaron](https://x.com/0x_Aaron)
 
-<ul>
-  <li>✨ I’m Aaron Nwokoro </li>
-  <!---
-  <li>🔭  I bring my strong aptitude for analytical thinking, disciplined problem-solving, collaborative style, and strong communication skills.</a>
-  
-  <li>💬 I'm passionate about building sustainable tech communities, especially in the Open-Source space.</li>
-  
-  <li>🎉🌱 Fun Fact : I love contributing to open source project, and i'm also a  <a href="https://stars.github.com/profiles/ruth-ikegah/">Github star</li>
--->
-</ul>
+---
 
-<!-- About me section: END -->
-
-<!-- Conecct section 
-
-<h2>Connect with me</h3>
-    <p>
-       <a href="https://www.linkedin.com/in/ruth-ikegah/"><img src="https://img.shields.io/badge/-Ruth%20Ikegah%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/IkegahRuth/"><img src="https://img.shields.io/badge/-IkegahRuth-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-        <a href="mailto:ruthikegah1@gmail.com"><img src="https://img.shields.io/badge/-Ruth%20Ikegah-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a> */
-   </p>
-   
- Conecct section: END -->
-
-
-<!-- Github Stats -->
-
-
-## :fire: Github Stats
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Maxiron&show_icons=true&locale=en&theme=tokyonight" alt="Ruth-ikegah" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maxiron&&theme=tokyonight" alt="Ruth-ikegah" /></p>
-
-
-<!-- Github Stats: END -->
-
-<!---
-**You can check out my blog here**
-- [My blog](https://cakebaby.dev/)
-
--->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Aaron-Nwokoro&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxiron&layout=compact" alt="Maxiron" /></p>
+*Feel free to explore my repositories and reach out if you'd like to collaborate or chat about technology and innovation!*
