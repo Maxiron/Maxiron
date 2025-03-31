@@ -27,6 +27,7 @@ Here are some highlights of my work:
 ## GitHub Stats
 
 [![Maxiron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxiron)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Optional: Add more cards or sections, like top languages, visitor badges, etc. -->
 
