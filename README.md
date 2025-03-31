@@ -27,7 +27,7 @@ Here are some highlights of my work:
 ## GitHub Stats
 
 [![Maxiron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxiron)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Optional: Add more cards or sections, like top languages, visitor badges, etc. -->
 
@@ -35,7 +35,7 @@ Here are some highlights of my work:
 
 I'm always excited to connect with fellow developers, open-source enthusiasts, or anyone with a cool project idea!  
 - **Email:** [aaronnwokoro@gmail.com](mailto:aaronnwokoro@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/aaron-nwokoro)  
+- **LinkedIn:** [Aaron Nwokoro](https://www.linkedin.com/in/aaron-nwokoro)  
 - **Twitter:** [@0xAaron](https://x.com/0x_Aaron)
 
 ---
