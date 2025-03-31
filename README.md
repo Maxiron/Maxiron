@@ -16,15 +16,17 @@ I'm a passionate ans experienced backend developer with a drive for building cre
 - **Frameworks & Tools:** Django, FastAPI, Springboot, Node.js, Docker, Git, etc.
 - **Interests:** Backend, Systems, DevOps, Cloud computing, etc.
 
+<!--
 ## Projects
 
 Here are some highlights of my work:
 - [**Project One**](https://github.com/Maxiron/library-api): A brief description of what this project does.
 - [**Project Two**](https://github.com/Maxiron/Backend): A short summary of its features and technologies used.
+ -->
 
 ## GitHub Stats
 
-![Maxiron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxiron&show_icons=true)
+![Maxiron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxiron)
 
 <!-- Optional: Add more cards or sections, like top languages, visitor badges, etc. -->
 
