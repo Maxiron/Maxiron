@@ -1,6 +1,6 @@
 # Hi there, I'm Aaron Nwokoro 👋
 
-I'm a passionate ans experienced backend developer with a drive for building creative and impactful solutions. Welcome to my GitHub profile!
+I'm a passionate and experienced backend developer with a drive for building creative and impactful solutions. Welcome to my GitHub profile!
 
 ## About Me
 
